@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-#my installation of Selinium install on GCP VM
+#my installation of Selenium install on GCP VM
 
 git clone https://github.com/seleniumbase/SeleniumBase.git
 sudo apt -y purge python-pip
